@@ -668,6 +668,7 @@
     "link": "projects/tropical/index.html",
     "imgSrc": "projects/tropical/icon.png",
     "title": "Tropical merge"
+  },
   {
     "link": "projects/tube-jumpers/index.html",
     "imgSrc": "projects/tube-jumpers/img/shark.jpg",
@@ -733,3 +734,4 @@
     "imgSrc": "projects/you-are-bezos/img/banner.png",
     "title": "You Are Jeff Bezos"
   }
+]
