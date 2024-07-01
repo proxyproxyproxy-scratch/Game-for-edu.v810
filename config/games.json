@@ -395,6 +395,11 @@
     "title": "Matrix Rampage"
   },
   {
+    "link": "projects/mergest/index.html",
+    "imgSrc": "projects/mergest/icon.png",
+    "title": "Mergest kingdom"
+  },
+  {
     "link": "projects/meme2048/index.html",
     "imgSrc": "projects/meme2048/img/rickroll.gif",
     "title": "Meme 2048"
@@ -659,6 +664,10 @@
     "imgSrc": "projects/tosstheturtle/tosstheturtle.png",
     "title": "Toss The Turtle"
   },
+  {
+    "link": "projects/tropical/index.html",
+    "imgSrc": "projects/tropical/icon.png",
+    "title": "Tropical merge"
   {
     "link": "projects/tube-jumpers/index.html",
     "imgSrc": "projects/tube-jumpers/img/shark.jpg",
